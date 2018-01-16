@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">min</string>
+    <string name="title_activity_bluetooth_control">BluetoothControl</string>
+</resources>
